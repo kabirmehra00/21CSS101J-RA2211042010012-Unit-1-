@@ -2,7 +2,7 @@ void main()
 {
     int num;
     
-    printf("RA2211042010012)");
+    printf("RA2211042010012");
     printf("Input a number :");
     scanf("%d", &num);
     if (num >= 0)
