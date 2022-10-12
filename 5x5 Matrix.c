@@ -1,7 +1,7 @@
 int main()
 {
     int row, col, num;
-	printf("RA2211042010012)");
+	printf("RA2211042010012\n");
     for(row=1;row<=5;row++)
     {
         num = row;
@@ -12,6 +12,5 @@ int main()
         }
         printf("\n");
     }
-
     return 0;
 }
