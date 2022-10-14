@@ -3,6 +3,7 @@ int main(){
     float b;
     double c;
     char d;
+  printf("RA2211042010012\n");
     printf("Size of int=%lu bytes\n",sizeof(a));
     printf("Size of float=%lu bytes\n",sizeof(b));
     printf("Size of double=%lu bytes\n",sizeof(c));
