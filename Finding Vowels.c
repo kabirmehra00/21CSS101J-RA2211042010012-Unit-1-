@@ -2,6 +2,7 @@ int main()
 {
     char vowel;
     printf("Input a Character :  ");
+    printf("RA2211042010012\n");
     scanf("%c", &vowel);
 
     switch(vowel)
