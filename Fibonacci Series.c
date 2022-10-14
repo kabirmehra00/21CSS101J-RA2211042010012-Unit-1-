@@ -1,7 +1,8 @@
 int main()    
 {    
  int n1=0,n2=1,n3,i,number;    
- printf("Enter the number of max no.:");    
+ printf("Enter the number of max no.:");
+ printf("RA2211042010012\n");
  scanf("%d",&number);    
  printf("\n%d %d",n1,n2);
  for(i=2;i<number;++i)   
