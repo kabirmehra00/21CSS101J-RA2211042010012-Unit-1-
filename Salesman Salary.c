@@ -2,6 +2,7 @@
 #define BONUS_RATE 200.00
 #define COMMISSION 0.05
 main(){
+   printf("RA2211042010012\n");
    int quantity ;
    float gross_salary, price ;
    float bonus, commission ;
