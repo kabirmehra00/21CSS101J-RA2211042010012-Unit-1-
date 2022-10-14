@@ -1,5 +1,6 @@
 void myFunction(char name[], int reg) {
   printf("Name: %s. Reg: %d\n", name, reg);
+  printf("RA2211042010012\n");
 }
 
 int main() {
