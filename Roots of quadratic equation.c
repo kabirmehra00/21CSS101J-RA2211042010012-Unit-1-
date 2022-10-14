@@ -3,9 +3,8 @@
  
 int main(){
   float a,b,c;
-  float d,root1,root2;  
- 
- 
+  float d,root1,root2;
+ printf("RA2211042010012\n");
   printf("Enter a, b and c of quadratic equation: ");
   scanf("%f%f%f",&a,&b,&c);
    
