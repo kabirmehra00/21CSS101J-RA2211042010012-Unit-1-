@@ -3,6 +3,7 @@ int main()
     int count,i;
     float weight,height;
     count = 0;
+    printf("RA2211042010012\n");
     printf("Enter Weight,height for 10 boys\n");
     for(i=1;i<=10;i++)
     {
