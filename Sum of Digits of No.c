@@ -1,6 +1,7 @@
 int main()    
 {    
 int n,sum=0,m;    
+printf("RA2211042010012\n");
 printf("Enter a number:");    
 scanf("%d",&n);    
 while(n>0)    
