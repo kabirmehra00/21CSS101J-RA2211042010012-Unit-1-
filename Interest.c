@@ -5,7 +5,7 @@ main()
 {
     int year;
     float amount,value,inrate;
-    
+    printf("RA2211042010012\n");
     amount= PRINCIPAL;
     inrate = 0.11;
     year = 0;
